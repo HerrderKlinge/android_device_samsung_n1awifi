@@ -20,4 +20,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE=n1awifi \
     TARGET_DEVICE=n1awifi \
     BUILD_FINGERPRINT="samsung/lt03wifiue/lt03wifiue:10/QP1A.191005.007/5878874:user/release-keys" \
-    PRIVATE_BUILD_DESC="lt03wifiue-user 10 QP1A P600UEUDOK1 release-keys"
+    PRIVATE_BUILD_DESC="lt03wifiue-user HDK 10 QP1A P600UEUDOK1 release-keys"
